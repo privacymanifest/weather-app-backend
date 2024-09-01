@@ -1,5 +1,3 @@
-
-```markdown
 # Weather App - Backend
 
 Welcome to the backend repository for the Weather App! This repository contains the code for the server-side services of the weather application, including API endpoints and data handling.
